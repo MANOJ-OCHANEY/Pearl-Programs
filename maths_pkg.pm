@@ -15,7 +15,7 @@ sub multiply
 	my($a,$b)=@_;
 	return $a*$b;
 }1;
-sub divide
+sub div
 {
 	my($a,$b)=@_;
 	return $a/$b;
